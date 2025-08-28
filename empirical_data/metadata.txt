@@ -1,0 +1,6 @@
+Three-Body Problem Empirical Data Generation
+Generated: 2025-08-27 21:44:56
+Configuration: Pythagorean (m1:m2:m3 = 3:4:5)
+Time span: [0, 100] with dt = 0.01
+Methods: Forest-Ruth symplectic vs Neural ODE (simulated)
+Purpose: Generate data for paper figures
